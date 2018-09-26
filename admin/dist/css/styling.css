@@ -1,0 +1,27 @@
+body{
+background:#0C5390;
+color:#FFF;
+}
+
+.gallery{
+background:#fff;
+border-radius:10px;
+}
+h3{
+color:#009FFF;
+text-align:center;
+margin-top:10px;
+}
+.gallery img{
+width:150px;
+height:150px;
+border-radius:5px;
+border:1px solid #006FFF;
+padding:5px;
+margin-bottom:10px;
+margin-left:30px;
+padding-left:13px;
+}
+.hr{
+background:#F99734;
+}
